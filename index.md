@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# AUMAG
-
 The AUMAG team develops new electromagnetic models for solving problems in mechanical
 and electrical engineering. Welcome!
 
