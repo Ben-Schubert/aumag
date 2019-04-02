@@ -21,7 +21,7 @@ permalink: /papers/
   * URL: [https://www.acoustics.asn.au/conference_proceedings/AAS2018/papers/p34.pdf](https://www.acoustics.asn.au/conference_proceedings/AAS2018/papers/p34.pdf)
   * Manuscript: [kamaruzaman2018-aas.pdf](papers/kamaruzaman2018-aas.pdf)
 
-`*Theoretical design parameters for a quasi-zero stiffness magnetic spring for vibration isolation*'
+‘*Theoretical design parameters for a quasi-zero stiffness magnetic spring for vibration isolation*’
   * Will S. Robertson, M.R.F. Kidner, Ben S. Cazzolato, Anthony C. Zander
   * Journal of Sound and Vibration, 326, p88-103
   * DOI: [https://doi.org/10.1016/j.jsv.2009.04.015](10.1016/j.jsv.2009.04.015)
