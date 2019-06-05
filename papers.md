@@ -6,11 +6,18 @@ permalink: /papers/
 
 ## Magnetic forces
 
+‘*Axial force between a thick coil and a cylindrical permanent magnet: optimising the geometry of an electromagnetic actuator*’
+  * Will Robertson, Ben Cazzolato, Anthony Zander
+  * IEEE Transactions on Magnetics, 48(9), p2479-2487, 2012
+  * DOI: [10.1109/TMAG.2011.2129524](https://doi.org/10.1109/TMAG.2012.2194789)
+  * Manuscript: [robertson2012-ietm.pdf](papers/robertson2012-ietm.pdf)
+
 ‘*A simplified force equation for coaxial cylindrical magnets and thin coils*’
   * Will Robertson, Ben Cazzolato, Anthony Zander
   * IEEE Transactions on Magnetics, 47(8), p2045-2048, 2011
   * DOI: [10.1109/TMAG.2011.2129524](https://doi.org/10.1109/TMAG.2011.2129524)
   * Manuscript: [robertson2011-ietm.pdf](papers/robertson2011-ietm.pdf)
+
 
 
 ## Magnetic springs and quasi-zero-stiffness
