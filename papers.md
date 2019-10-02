@@ -34,3 +34,4 @@ permalink: /papers/
   * DOI: [https://doi.org/10.1016/j.jsv.2009.04.015](10.1016/j.jsv.2009.04.015)
   * Manuscript: [robertson2009-jsv.pdf](papers/robertson2009-jsv.pdf)
   * Note [typo](https://doi.org/10.1016/j.jsv.2010.08.036) in Eq. (17)
+
